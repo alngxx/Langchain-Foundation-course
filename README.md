@@ -30,7 +30,7 @@ A complex **Multi-Agent System** that uses **Runtime Context** and **State Manag
 
 ---
 
-## 📂 Repository Structure
+## Repository dtructure
 
 - `notebooks/module-1/`: **Agent Fundamentals**
   - Foundational models (GPT-5, Claude, Gemini)
