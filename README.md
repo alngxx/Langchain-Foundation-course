@@ -30,10 +30,26 @@ A complex **Multi-Agent System** that uses **Runtime Context** and **State Manag
 
 ---
 
-## Repository Structure
-- `notebooks/module-1/`: Basics of agents, tools, and memory.
-- `notebooks/module-2/`: Advanced state management and multi-agent coordination.
-- `notebooks/module-3/`: Production concerns and human-in-the-loop patterns.
+## 📂 Repository Structure
+
+- `notebooks/module-1/`: **Agent Fundamentals**
+  - Foundational models (GPT-5, Claude, Gemini)
+  - Custom Tool definition & Binding
+  - Short-term Memory (Checkpointers)
+  - Multimodal Messaging (Images & Audio)
+  - **Project**: *Personal Chef* - A memory-aware recipe agent with web search skills.
+- `notebooks/module-2/`: **Advanced Agent Architectures**
+  - Model Context Protocol (MCP) for universal integrations
+  - Runtime Context (Passing background data)
+  - Persistent State Management
+  - Multi-Agent Orchestration (Managers & Specialists)
+  - **Project**: *Wedding Planner* - Coordinating multiple AI specialist agents.
+- `notebooks/module-3/`: **Production & Deployment**
+  - Middleware & Custom Logic
+  - Managing Message History (Trimming & Filtering)
+  - Human-in-the-loop (HITL) Workflows
+  - Dynamic Model & Prompt Selection
+  - **Project**: *Email Assistant* - A robust, production-ready automation agent.
 
 ---
 
