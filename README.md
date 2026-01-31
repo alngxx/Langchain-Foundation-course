@@ -1,17 +1,17 @@
 # An Loc's LangChain journey
 
-Welcome to my personal workspace for the **LangChain Academy: Introduction to LangChain** course. This repository tracks my progress as I build intelligent agents and explore the LLM ecosystem.
+Welcome to my workspace for the **LangChain Academy: Introduction to LangChain** course. This repo tracks my progress as I build AI agents and explore the LLM ecosystem.
 
 ---
 
-## Current Progress
+## Current progress
 - [x] **Module 1: Create Agent** (Foundational models, Tools, Memory, Multimodal)
 - [x] **Module 2: Advanced Agent** (MCP, Context, State, Multi-Agent Systems)
 - [ ] **Module 3: Production-Ready Agent** (Middleware, HITL, Dynamic Agents)
 
 ---
 
-## Projects Completed
+## Projects
 
 ### 1. Personal Chef (Module 1)
 An AI agent equipped with **Short-Term Memory** and a **Web Search Tool (Tavily)**. It can suggest recipes based on leftover ingredients and remember user preferences.
